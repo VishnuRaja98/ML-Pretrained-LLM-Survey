@@ -1,7 +1,7 @@
-# ML-Pretrained-LLM-Survey
-CSE510 Fall24 Stony Brook Project. It is a survey of pretrained Language models BERT, DistilBERT, RoBERTA, XLNet on Sentiment, Multilinual, Relational, Multiclass datasets
+# ML-Pretrained-LLM-Survey <br/>
+CSE510 Fall24 Stony Brook Project. It is a survey of pretrained Language models BERT, DistilBERT, RoBERTA, XLNet on Sentiment, Multilinual, Relational, Multiclass datasets <br/>
 
-The notebooks are created in kaggle and google colab
+The notebooks are created in kaggle and google colab <br/>
 **Sentiment Analysis** <br/>
 
 **Multilingual** <br/>
